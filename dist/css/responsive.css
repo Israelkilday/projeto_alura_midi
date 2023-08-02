@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    body {
+      overflow: hidden;
+    }
+    
+    .grade {
+      display: flex;
+    }
+  
+    .teclado {
+      width: 100%;
+    }
+  
+    .tecla {
+      height: 100px;
+      width: 100px;
+    }
+  }
