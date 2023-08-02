@@ -1,4 +1,3 @@
-
 # Projeto Alura Midi
   
 ## Sobre o Projeto
