@@ -18,7 +18,7 @@ Consiste em emitir determinados sons quando se clicar nas teclas. O objetivo era
 
 ## Link do Projeto
 
-https://israelkilday.github.io/project_alura/aluramidi-curso-aula5/
+https://israelkilday.github.io/projeto_alura_midi/dist/
 
 ## Autor
 
